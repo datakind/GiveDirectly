@@ -1,0 +1,7 @@
+*.DS_Store
+data/*
+*.idea*
+*.pyc
+*.zip
+models/*
+classify_images/*
