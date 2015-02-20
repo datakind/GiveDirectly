@@ -5,7 +5,4 @@ Map poverty in developer countries by identifying house hold roofing materials
 
 * Free software: BSD license
 
-Features
---------
-
-* TODO
+To get access to the data and images to run the code reach out to lluis.canet@dadrin.com
